@@ -1,0 +1,2 @@
+1. Web Design is the organization of the layout of a website.
+2. I want to know how web designers do the things they do, in a broad sense.  How do they make designs and connect it to the code?

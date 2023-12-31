@@ -1,0 +1,20 @@
+Give a short description of each of the following license 
+types in your own words.
+
+
+1. CC BY
+    
+
+2. CC BY-SA
+    
+
+3. CC BY-ND
+    
+
+4. CC BY-NC
+
+
+5. CC BY-NC-SA 
+
+
+6. CC BY-NC-ND
